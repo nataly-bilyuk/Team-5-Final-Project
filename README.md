@@ -43,3 +43,11 @@ Analyse delivery and logistics efficiency by studying the delivery time distribu
 Comprehensive product analysis by evaluating best-selling categories, top-revenue product categories, revenue and volume trends over time 
 
 Freight value analysis to generate actionable insights for business strategy and operational efficiency. 
+<img width="1828" height="952" alt="image" src="https://github.com/user-attachments/assets/381f997c-8550-495e-9f39-f79057b94ca1" />
+<img width="1817" height="873" alt="image" src="https://github.com/user-attachments/assets/6d6e7d2a-56b4-4c2b-a30d-09c427741730" />
+<img width="1812" height="926" alt="image" src="https://github.com/user-attachments/assets/89713518-2280-45b5-92e6-21d58823dbfc" />
+
+
+
+
+
